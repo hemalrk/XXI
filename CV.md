@@ -2,7 +2,7 @@
 
 hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
-### EDUCATION <h6>
+### _EDUCATION_ <h6>
 
 **TiSEM, Tilburg School of Economics & Management** , *September 2016 - Present, Tilburg (NL)*
 
@@ -16,7 +16,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Completed the 5th semester of my degree abroad through the Erasmus Program
 
-### WORK EXPERIENCE <H6>
+### _WORK EXPERIENCE_ <H6>
 
 **Deloitte & Associados, SROC, S.A. – Audit Analyst: Manufacturing, Consumer Business, Energy & Resources** , *September 2015 - June 2016, Lisboa (PT)*
 
@@ -48,7 +48,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Greeted and introduced the hotel to incoming house guests enhancing soft skills;
 
-### ACTIVITIES AND INTERESTS	<H6>
+### _ACTIVITIES AND INTERESTS_	<H6>
 
 **Associação Desportiva Maristas – Futsal federated team** , *September 2004 - December 2015, Lisboa (PT)*						
 
@@ -66,7 +66,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Improved presentation skills, pitching the product as well as the company itself;
 
-### OTHER SKILLS AND COMPETENCIES <h6>
+### _OTHER SKILLS AND COMPETENCIES_ <h6>
 
 **Languages:**
 
