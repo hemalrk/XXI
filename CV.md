@@ -1,8 +1,7 @@
-## HEMAL RAJESH KANJI <h2>
-
+###### HEMAL RAJESH KANJI
 hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
-### _EDUCATION_ <h6>
+##### _EDUCATION_ <h6>
 
 **TiSEM, Tilburg School of Economics & Management** , *September 2016 - Present, Tilburg (NL)*
 
@@ -16,7 +15,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Completed the 5th semester of my degree abroad through the Erasmus Program
 
-### _WORK EXPERIENCE_ <H6>
+##### _WORK EXPERIENCE_ <H6>
 
 **Deloitte & Associados, SROC, S.A. – Audit Analyst: Manufacturing, Consumer Business, Energy & Resources** , *September 2015 - June 2016, Lisboa (PT)*
 
@@ -36,7 +35,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Reorganised the warehouse, achieving efficiency gains in the delivery process; 
 
-**Eurotaste Lda. - The Wine Company - Wine and Spirits shop, warehouse and wholesaler** , *July 2012 - September 2012, Lisboa (PT)*                   
+**Eurotaste Lda. - The Wine Company - Wine and Spirits shop, warehouse and wholesaler** , *July 2012 - September 2012, Lisboa (PT)*              
 
 •	Worked as a sales assistant, handling both individual clients and restaurants;				
 
@@ -46,9 +45,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Worked in a multicultural environment dealing with guests and colleagues from different nationalities;	
 
-•	Greeted and introduced the hotel to incoming house guests enhancing soft skills;
-
-### _ACTIVITIES AND INTERESTS_	<H6>
+##### _ACTIVITIES AND INTERESTS_	<H6>
 
 **Associação Desportiva Maristas – Futsal federated team** , *September 2004 - December 2015, Lisboa (PT)*						
 
@@ -66,13 +63,13 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Improved presentation skills, pitching the product as well as the company itself;
 
-### _OTHER SKILLS AND COMPETENCIES_ <h6>
+##### _OTHER SKILLS AND COMPETENCIES_ <h6>
 
-**Languages:**
+*Languages:*
 
 •	Portuguese (Native); English (Proficient); Gujarati & Spanish (Intermediate); French (Basic Comprehension Skills);
 
-**Technical abilities:**
+*Technical abilities:*
 
 •	 Good knowledge of Microsoft Office Excel - developed my skills concerning Microsoft Excel while working as auditor analyst, being able to use this tool extensively;	
 
