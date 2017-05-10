@@ -2,7 +2,7 @@
 
 hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
-###### EDUCATION <h6>
+### EDUCATION <h6>
 
 **TiSEM, Tilburg School of Economics & Management** , *September 2016 - Present, Tilburg (NL)*
 
@@ -16,7 +16,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Completed the 5th semester of my degree abroad through the Erasmus Program
 
-###### WORK EXPERIENCE <H6>
+### WORK EXPERIENCE <H6>
 
 **Deloitte & Associados, SROC, S.A. – Audit Analyst: Manufacturing, Consumer Business, Energy & Resources** , *September 2015 - June 2016, Lisboa (PT)*
 
@@ -26,7 +26,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Being exposed to several different industries has provided great insight on operations from various kinds of businesses – from the garments industry to plastic recipients production.
 
-•	Improved understanding of IFRS accountancy standards. Also developed my skills concerning Microsoft Excel, being able to use this tool extensively;	
+•	Improved understanding of IFRS accountancy standards
 
 **Lusopiyus Moçambique, Lda – Import & Export business – Summer job** , *Summer 2013, 2014 & 2015, Maputo (MZ)*
 
@@ -48,7 +48,7 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Greeted and introduced the hotel to incoming house guests enhancing soft skills;
 
-###### ACTIVITIES AND INTERESTS	<H6>
+### ACTIVITIES AND INTERESTS	<H6>
 
 **Associação Desportiva Maristas – Futsal federated team** , *September 2004 - December 2015, Lisboa (PT)*						
 
@@ -66,25 +66,22 @@ hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 •	Improved presentation skills, pitching the product as well as the company itself;
 
-###### OTHER SKILLS AND COMPETENCIES <h6>
+### OTHER SKILLS AND COMPETENCIES <h6>
 
 **Languages:**
 
-•	Portuguese – Native language;
+•	Portuguese (Native); English (Proficient); Gujarati & Spanish (Intermediate); French (Basic Comprehension Skills);
 
-•	English – Fluent - Certificate of Proficiency in English Diploma obtained in 2011;
+**Technical abilities:**
 
-•	Gujarati – Intermediate level; 
+•	 Good knowledge of Microsoft Office Excel - developed my skills concerning Microsoft Excel while working as auditor analyst, being able to use this tool extensively;	
 
-•	Spanish/French – Basic comprehension skills;
+•	Intermediate knowledge of STATA and EViews (data analysis and statistical software) developed specifically under Cross-Section data and Time-Series data tool courses and extensively applied throughout the masters' seminar courses research projects.
 
-**Computer abilities:**
+•	Introductory knowledge of Python programming language.
 
-•	Experienced in Mac OS and Microsoft Windows;
 
-•	Good knowledge of Microsoft Office – MS Excel, MS PowerPoint, MS Word;
 
-  o	Attended Modules in Data Analysis and Data Modelling (VBA Programming) for MS Excel
 
 
 
