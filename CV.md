@@ -1,5 +1,5 @@
 HEMAL RAJESH KANJI
-==========
+=======
 hemalrkanji@gmail.com | +351 912 173 525 | Portuguese Nationality
 
 ##### _EDUCATION_ <h6>
