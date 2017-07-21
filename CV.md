@@ -2,9 +2,9 @@ HEMAL RAJESH KANJI - hemalrkanji@gmail.com | +351 912 173 525 | From Portugal to
 
 ##### _EDUCATION_ <h6>
 
-**TiSEM, Tilburg School of Economics & Management** , *September 2016 - Present, Tilburg (NL)*
+**M.Sc. in Economics, Growth & Sustainability - TiSEM, Tilburg School of Economics & Management** , 08/2016 - 08/2017, Tilburg (NL)
 
-•	M.Sc. in Economics
+*Thesis: Mobile Money Technology Adoption by Small and Medium Enterprises: Evidence from a Field Experiment in Kenya
 
 **Católica Lisbon School of Business and Economics** , *September 2012 - June 2015, Lisboa (PT)*
 
